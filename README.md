@@ -1,5 +1,3 @@
-Certainly! Here's a README to accompany your ATMINTERFACE Java program:
-
 # ATMINTERFACE
 
 **ATMINTERFACE** is a simple Java program that simulates an ATM (Automated Teller Machine) interface. Users can interact with the ATM to perform various banking operations, such as depositing money, withdrawing money, checking the balance, transferring funds to another account, viewing transaction history, and exiting the ATM interface.
@@ -105,3 +103,7 @@ Exiting the CHERRY-ATM.
 
 Enjoy experimenting with the code and exploring the different banking operations provided by the ATMINTERFACE program!
 # Demo
+
+https://github.com/Madalacharitavya/OIBSIP-Task3/assets/102969979/66af39f7-ac2d-44a2-a4ed-a69690c175cf
+
+
